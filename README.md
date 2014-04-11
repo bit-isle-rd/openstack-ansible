@@ -74,7 +74,7 @@ LAN で接続されている必要があります。外部 LAN で接続され�
      ```
      git clone https://github.com/ansible/ansible.git
      cd ansible
-     git checkout -b v1.2.3
+     git checkout -b v1.2.3 v1.2.3
      python setup.py build
      sudo -E python setup.py install
      ```
