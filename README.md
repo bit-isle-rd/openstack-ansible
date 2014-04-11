@@ -65,7 +65,8 @@ LAN で接続されている必要があります。外部 LAN で接続され�
  2. Python の開発環境と pwgen をインストールします。
 
      ```
-     sudo apt-get install -y python-dev pwgen
+     sudo apt-get update -y
+     sudo apt-get install -y python-dev pwgen git
      ```
 
  3. git で ansible をインストールします。
@@ -73,6 +74,7 @@ LAN で接続されている必要があります。外部 LAN で接続され�
      ```
      git clone https://github.com/ansible/ansible.git
      cd ansible
+     git checkout -b v1.2.3
      python setup.py build
      sudo -E python setup.py install
      ```
