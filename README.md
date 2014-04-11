@@ -83,7 +83,7 @@ LAN で接続されている必要があります。外部 LAN で接続され�
  4. 本ツールを展開します。
 
      ```
-     git clone https://github.com/yosshy/openstack-ansible.git
+     git clone https://github.com/bit-isle-rd/openstack-ansible.git
      cd openstack-ansible
      ```
 
