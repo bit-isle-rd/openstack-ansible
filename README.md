@@ -1,7 +1,7 @@
-Ansible Playbooks for OpenStack Grizzly
+Ansible Playbooks for OpenStack Havana
 =======================================
 
-吉山 あきら <akirayoshiyama@gmail.com>
+ビットアイル総合研究所<bi-rd-support@bit-isle.co.jp>
 
 本ツールは OSS のオーケストレーションツール「Ansible」
 （http://ansible.cc/ ）を使って OpenStack Grizzly 環境をインストールする
@@ -173,3 +173,4 @@ LAN で接続されている必要があります。外部 LAN で接続され�
    Ansible は使いやすく、希少な OSS オーケストレーションツールです。
  * OpenStack コミュニティ。
    素晴らしい OSS クラウド基盤をありがとう。
+ * 吉山 あきら <akirayoshiyama@gmail.com>さんのプロジェクトからforkしたものです
