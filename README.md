@@ -1,6 +1,9 @@
 Ansible Playbooks for OpenStack Havana
 =======================================
 
+
+※内容編集中です。
+
 ビットアイル総合研究所<bi-rd-support@bit-isle.co.jp>
 
 本ツールは OSS のオーケストレーションツール「Ansible」
