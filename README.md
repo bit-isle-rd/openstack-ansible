@@ -66,7 +66,8 @@ LAN で接続されている必要があります。外部 LAN で接続され�
 
      ```
      sudo apt-get update -y
-     sudo apt-get install -y python-dev pwgen git
+     sudo apt-get install -y python-dev pwgen git python-pip
+     sudo pip install Jinja2
      ```
 
  3. git で ansible をインストールします。
