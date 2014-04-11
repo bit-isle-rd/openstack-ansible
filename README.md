@@ -2,7 +2,7 @@ Ansible Playbooks for OpenStack Havana
 =======================================
 
 
-※内容編集中です。
+※内容編集中。
 
 ビットアイル総合研究所<bi-rd-support@bit-isle.co.jp>
 
